@@ -8,10 +8,10 @@ Convertir la experiencia diaria en conocimiento estructurado y reutilizable.
 
 **Estructura General del Vault**
 
-Organizar el vault en cuatro áreas:
-
-- **Registro Diario** — Captura inmediata.
-- **Repositorio de Conceptos** — Conocimiento depurado.
+Organizar el vault en cinco áreas:
+- **Inbox** — Ideas y notas rápidas.
+- **Registro Diario** — Registros diarios de aprendizaje.
+- **Repositorio de Conceptos** — Conocimiento depurado. 
 - **Área de Práctica** — Ejecución y experimentos.
 - **Backlog de Aprendizaje** — Pendientes a investigar.
 - **MOC (Map of Content)** — Índice estructural del sistema
@@ -165,7 +165,7 @@ Contiene fragmentos de código, configuraciones o proyectos de prueba.
 - Al completar un ítem, moverlo al registro diario con fecha.
 - Priorizar por impacto en proyectos actuales.
 ---
-## MOC (Map of Content)
+**5. MOC (Map of Content)**
 
 Mapa de Contenido: nodo central que agrupa y organiza notas relacionadas.  
 Funciona como índice manual para navegar entre áreas conceptuales.  
