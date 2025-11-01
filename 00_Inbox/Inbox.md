@@ -1,8 +1,10 @@
-## Nuevas ideas
-- [ ] Crear nota sobre diferencias entre imágenes y contenedores
-- [ ] Anotar buenas prácticas para `.dockerignore`
-- [ ] Revisar cómo optimizar capas en Dockerfile
-
 ## Pendientes
-- [ ] Agregar sección Docker al MOC DevOps
-- [ ] Documentar uso de volúmenes en entorno local
+- [ ] Arquitectura monolotica modular 
+- [ ] Microservicios 
+- [ ] Aprender Postgress
+- [ ] Aprender mas sobre Redis o Kafka
+- [ ] Concepto de Abstraccion en programacion
+- [ ] Point to point queues
+- [ ] Pub&Sub
+- [ ] React 19.2 Ver nuevas features
+- [ ] CQRS Arquiterctura
